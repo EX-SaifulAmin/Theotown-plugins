@@ -1,0 +1,16 @@
+[
+  {
+    "id": "$com.EX-Saifulamin.factory.ind01",
+    "type": "industrial",
+    "level": 2,
+    "author": "EX-Saifulamin",
+    "width": 4,
+    "height": 4,
+    "workers": 10000,
+    "price":1000,
+    "build time":5,
+    "frames": [
+      { "bmp": "factory.png" }
+    ]
+  }
+]
